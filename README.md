@@ -6,10 +6,9 @@ Simple and handy color selector UI control based on Unity GUI system.
 
 Hot To Use
 
-https://www.youtube.co/watch?v=rLMgItnbmSQ
+[![VIDEO TUTORIAL](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=rLMgItnbmSQ "")
 
-See
-
+See also
 
 http://staraban.com/en/simple-color-picker-control-for-unity/
 
