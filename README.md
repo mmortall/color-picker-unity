@@ -6,7 +6,7 @@ Simple and handy color selector UI control based on Unity GUI system.
 
 Hot To Use
 
-[![VIDEO TUTORIAL](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=rLMgItnbmSQ "")
+[![VIDEO TUTORIAL](https://img.youtube.com/vi/rLMgItnbmSQ/0.jpg)](https://www.youtube.com/watch?v=rLMgItnbmSQ "")
 
 See also
 
